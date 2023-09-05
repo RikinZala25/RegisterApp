@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "serverlessapp",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 15,
+      "apiKeyExpirationDate": "2023-09-13T07:36:17.051Z",
+      "keyDescription": ""
+    }
+  }
+}

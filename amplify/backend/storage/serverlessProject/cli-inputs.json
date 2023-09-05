@@ -1,0 +1,14 @@
+{
+  "resourceName": "serverlessProject",
+  "policyUUID": "80265bff",
+  "bucketName": "serverlessdaysprojectbusket-185492734037",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
